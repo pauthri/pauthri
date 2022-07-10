@@ -393,6 +393,7 @@ li > a:only-child:after {
 }
 .w3layouts_banner_margin {
   padding: 17em 0em 0em;
+  margin-bottom: 2em;
 }
 .image_margin {
   margin-top: 8em;
